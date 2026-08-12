@@ -12,7 +12,7 @@ Universidad Técnica Estatal de Quevedo
 ├── figs/          # imágenes usadas por el documento (logo, capturas del SGA)
 ├── main.tex       # archivo principal LaTeX
 ├── Prueba.pdf     # PDF compilado
-└── readme.md      # este archivo
+└── README.md      # este archivo
 ```
 
 ## Archivo principal
