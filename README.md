@@ -9,7 +9,10 @@ Universidad Técnica Estatal de Quevedo
 ## Estructura del repositorio
 
 ```
-├── figs/          # imágenes usadas por el documento (logo, capturas del SGA)
+├── figs/
+│   ├── evaluacion_sga.png   # captura de la evaluación rendida en el SGA
+│   ├── logo_uteq.png        # logo institucional para la carátula
+│   └── resumen_sga.png      # captura del resumen de intentos del SGA
 ├── main.tex       # archivo principal LaTeX
 ├── Prueba.pdf     # PDF compilado
 └── README.md      # este archivo
@@ -64,4 +67,3 @@ Si `pdflatex` no está instalado o falta el soporte de español:
 sudo apt-get update
 sudo apt-get install -y texlive-latex-extra texlive-lang-spanish texlive-pictures
 ```
-
